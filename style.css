@@ -3,7 +3,7 @@ body {
   font-family: Georgia, "Times New Roman", serif;
   background: #f5f5f5;
   color: #222;
-  font-size: 12px
+  font-size: 16px;
 }
 
 .navbar {
@@ -98,12 +98,13 @@ body {
   padding: 28px 34px;
   border-radius: 20px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  font-size: 20px
+  font-size: 14px;
 }
 
 .content-section h2 {
   margin-top: 0;
   color: #1f4e79;
+  font-size: 1.4rem;
 }
 
 @media (max-width: 900px) {
@@ -136,3 +137,11 @@ body {
     margin: 0 10px;
   }
 }
+
+
+
+  
+  
+  
+
+  
